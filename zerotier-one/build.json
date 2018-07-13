@@ -2,7 +2,8 @@
     "squash": false,
     "build_from": {
         "amd64": "hassioaddons/debian-base-amd64:1.0.0",
-        "armhf": "hassioaddons/debian-base-armhf:1.0.0"
+        "armhf": "hassioaddons/debian-base-armhf:1.0.0",
+        "aarch64": "hassioaddons/debian-base-aarch64:1.0.0"
     },
     "args": {
         "ZT_VER":"1.2.8"
